@@ -69,9 +69,11 @@ button:hover{
         margin-left: 100px;
     }
     .reload{
-    margin-top: 5px;
+    margin-top: 70px;
     }
-
+   .dice-flex{
+        display: flex;
+    }
     
     .btm{
         font-size: 50px;
